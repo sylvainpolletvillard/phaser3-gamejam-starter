@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "explosion.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 498,
+				"h": 1815
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "explosion4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 496,
+						"h": 486
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 496,
+						"h": 486
+					}
+				},
+				{
+					"filename": "explosion1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 36,
+						"w": 492,
+						"h": 464
+					},
+					"frame": {
+						"x": 1,
+						"y": 489,
+						"w": 492,
+						"h": 464
+					}
+				},
+				{
+					"filename": "explosion2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 33,
+						"w": 488,
+						"h": 427
+					},
+					"frame": {
+						"x": 1,
+						"y": 955,
+						"w": 488,
+						"h": 427
+					}
+				},
+				{
+					"filename": "explosion3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 31,
+						"w": 486,
+						"h": 430
+					},
+					"frame": {
+						"x": 1,
+						"y": 1384,
+						"w": 486,
+						"h": 430
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:28844b7a330693f4e14059357ec4f464:1c86e93b10c0535af9c1cc8af0d0f751:900e1fb3093a9a6ecb2b2b49071c44f7$"
+	}
+}

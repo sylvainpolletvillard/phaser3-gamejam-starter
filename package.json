@@ -1,0 +1,44 @@
+{
+	"name": "untitled_project",
+	"version": "0.0.1",
+	"description": "Amateur game done with Phaser 3 and TypeScript",
+	"keywords": [
+		"Phaser",
+		"Html5-game"
+	],
+	"devDependencies": {
+		"@rollup/plugin-alias": "^3.1.2",
+		"@rollup/plugin-commonjs": "^21.0.1",
+		"@rollup/plugin-replace": "^3.0.0",
+		"@types/node": "^16.11.6",
+		"typescript": "^4.4.4",
+		"vite": "^2.6.13"
+	},
+	"dependencies": {
+		"phaser": "^3.52.0"
+	},
+	"source": "src/index.html",
+	"browserslist": [
+		"> 0.5%",
+		"last 2 versions",
+		"not dead"
+	],
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/digitsensitive/phaser3-typescript.git"
+	},
+	"author": {
+		"name": "Sylvain Pollet-Villard",
+		"email": "sylvain.polletvillard@gmail.com"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/digitsensitive/phaser3-typescript/issues"
+	},
+	"homepage": "https://github.com/digitsensitive/phaser3-typescript#readme"
+}
